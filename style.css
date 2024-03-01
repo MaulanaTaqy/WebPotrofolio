@@ -1,0 +1,11 @@
+.jumbotron{
+    background-color: #e2edff;
+    padding-top: 2rem;
+}
+.project{
+    background-color: #e2edff;
+    padding-top: 2rem;
+}
+#container{
+    height: 60vh;
+}
